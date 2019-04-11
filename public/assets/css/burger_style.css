@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+}
+
+.lists-container {
+    justify-content: space-between;
+}
